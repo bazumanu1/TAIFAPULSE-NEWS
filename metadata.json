@@ -1,0 +1,6 @@
+{
+  "name": "TaifaPulse News AI",
+  "description": "Kenya's News. Powered by Intelligence - Enterprise-Grade Fully Automated AI Newsroom",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
